@@ -54,4 +54,4 @@
 #注：原图放在photo里
 #URL：https://github.com/YJ-Flibbertigibbet/NKU_framework/blob/Photo/%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6.png
 
-![实验报告logo](https://github.com/YJ-Flibbertigibbet/NKU_framework/blob/Photo/%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6.png)
+![实验报告logo]([https://github.com/YJ-Flibbertigibbet/NKU_framework/blob/Photo/%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6.png](https://github.com/YJ-Flibbertigibbet/NKU_framework/blob/Photo/%E5%9F%BA%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E5%B0%81%E9%9D%A2%E6%A0%B7%E7%A8%BF.png))
