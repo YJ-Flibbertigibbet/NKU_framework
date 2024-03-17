@@ -16,7 +16,8 @@
 #插入图片
 		\vspace*{-7cm} #编辑垂直于顶部距离
 		\hspace{-4cm} #编辑水平间距
-    \includegraphics[width=1.4\linewidth]{C:/file/to/path/南开大学.png} #插入图片logo调整大小宽度
+    \includegraphics[width=1.4\linewidth]{C:/file/to/path/南开大学.png}
+#插入图片logo调整大小宽度
 
 #居中
 		\begin{center}	
@@ -46,3 +47,6 @@
 	\textbf{\Large 摘要}：这是一篇物理实验报告
 	\end{titlepage}
 \end{document} 
+
+#注：原图放在photo里
+#URL：https://github.com/YJ-Flibbertigibbet/NKU_framework/blob/Photo/%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6.png
