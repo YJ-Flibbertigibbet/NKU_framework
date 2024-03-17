@@ -1,22 +1,21 @@
 #大学物理基础实验latex模板——封面篇
-'''
-\documentclass[UTF8]{article} #设置封面格式，编码为UTF8（中文），类型为article
-\usepackage{ctex} #中文文档
-#geometry包，用以编辑页面布局，[]中为变量
-\usepackage[a4paper, left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry}
-\usepackage{graphicx} #画图的包
-\usepackage{titlesec} #用于自定义文档中标题（例如章节、子章节等）的格式和样式
-'''
-'''
-#开始正文
+
+    \documentclass[UTF8]{article} #设置封面格式，编码为UTF8（中文），类型为article
+     \usepackage{ctex} #中文文档
+    #geometry包，用以编辑页面布局，[]中为变量
+     \usepackage[a4paper, left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry}
+    \usepackage{graphicx} #画图的包
+    \usepackage{titlesec} #用于自定义文档中标题（例如章节、子章节等）的格式和样式
+
+    #开始正文
 
 	 \begin{document}
 
- #开始编辑标题页
+    #开始编辑标题页
  
  	\begin{titlepage}
 
-#插入图片
+    #插入图片
 
 		\vspace*{-7cm} #编辑垂直于顶部距离
 		\hspace{-4cm} #编辑水平间距
