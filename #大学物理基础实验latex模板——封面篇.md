@@ -1,5 +1,5 @@
 #大学物理基础实验latex模板——封面篇
-
+'''
 \documentclass[UTF8]{article} #设置封面格式，编码为UTF8（中文），类型为article
 \usepackage{ctex} #中文文档
 #geometry包，用以编辑页面布局，[]中为变量
@@ -47,6 +47,9 @@
 	\textbf{\Large 摘要}：这是一篇物理实验报告
 	\end{titlepage}
 \end{document} 
+'''
 
 #注：原图放在photo里
 #URL：https://github.com/YJ-Flibbertigibbet/NKU_framework/blob/Photo/%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6.png
+
+![实验报告logo](https://github.com/YJ-Flibbertigibbet/NKU_framework/blob/Photo/%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6.png)
